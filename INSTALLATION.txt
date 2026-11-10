@@ -1,0 +1,9 @@
+MY HOME DASH V2
+
+1. Remplace les fichiers de ton site actuel par ceux de ce dossier.
+2. Conserve la même adresse HTTPS pour garder tes données locales dans le même navigateur.
+3. Sur iPhone, ouvre Safari et actualise la page.
+4. Si nécessaire, supprime puis ajoute de nouveau le raccourci écran d’accueil.
+
+Les données sont stockées dans le navigateur. Exporte une sauvegarde JSON dans Réglages avant toute migration.
+Les connexions iCloud/Apple natives ne sont pas incluses dans cette version.
